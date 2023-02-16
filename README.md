@@ -1,2 +1,4 @@
 # trybe-exercicios
-Exercícios trybe
+Exercícios trybe 
+
+Git e Github
